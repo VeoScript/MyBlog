@@ -1,0 +1,306 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* cursor: default; */
+  font-family: 'Calibri';
+}
+
+.warning{
+  font-family: 'Corbel';
+}
+
+a{
+  cursor: pointer;
+  transition: all.20s ease-in-out;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+.note{
+  font-family: 'Calibri';
+  font-size: 12px;
+  color: #5e5e5e;
+}
+
+label{
+  font-family: 'Corbel';
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.main .header{
+  margin: 30px auto 0px;
+}
+
+.main .header .nav
+.container-fluid .navbar-header
+.navbar-brand{
+  font-family: 'Corbel';
+  font-size: 30px;
+  float: left;
+}
+
+.main .header .nav
+.container-fluid .nav
+li a{
+  font-family: 'Corbel';
+  font-size: 18px;
+  color: #757575;
+  border-radius: 10px 5px 10px 5px;
+  transition: all 0.20s ease-in-out;
+}
+
+.main .header .nav
+.container-fluid .nav
+li a:hover{
+  background: #e9e9e9;
+}
+
+.main .header .nav
+.container-fluid .nav
+li a:focus{
+  background: none;
+}
+
+.main .body{
+  margin: 20px auto 50px;
+}
+
+.main .body .a 
+.profile{
+  margin: 0px auto -10px;
+  font-family: 'Corbel';
+  font-size: 14px;
+}
+
+.main .body .a 
+.wel_mess{
+  font-family: 'Calibri';
+  font-size: 30px;
+  color: #5e5e5e;
+  margin: 20px auto 0px;
+}
+
+.main .body .a 
+.wel_mess .me{
+  font-family: 'Corbel';
+  font-size: 35px;
+  font-weight: bolder;
+  color: #5c5ac5;
+}
+
+.main .body .a
+.wel_mess2{
+  font-family: 'Calibri';
+  font-size: 16px;
+  color: #333;
+}
+
+.main .body .a
+.wel_mess3{
+  font-family: 'Calibri';
+  color: #687b9e;
+}
+
+.main .body .a
+.me{
+  font-family: 'Corbel';
+  font-size: 12px;
+  font-weight: lighter;
+  margin: -10px auto 0px;
+}
+
+.main .body .a .btn-group
+.f{
+  font-family: 'Corbel';
+  font-size: 14px;
+  margin: 0px auto -1px;
+}
+
+.main .body .a .btn-group
+a{
+  font-size: 20px;
+  color: #777777;
+  margin-right: 8px;
+}
+
+.main .footer{
+  line-height: 5px;
+  margin: 0px auto 30px;
+}
+
+.main .footer .rights,.dev{
+  font-family: 'Calibri';
+  font-size: 12px;
+}
+
+/* Modal Fonts Designs */
+.modal .modal-dialog
+.modal-content .modal-body
+.cd1{
+  font-family: 'Calibri';
+  font-size: 18px;
+  font-weight: lighter;
+  color: #333;
+}
+
+.modal .modal-dialog
+.modal-content .modal-body
+.cd2{
+  font-family: 'Calibri';
+  font-size: 14px;
+  font-weight: bolder;
+  color: #5e5e5e;
+}
+
+.main .body .a .a-txt1{
+  margin: 20px auto 0px;
+  font-family: 'Calibri';
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+.main .body .a .a-txt-i{
+  font-size: 20px;
+  color: #777777;
+}
+
+.main .body .a .myinfo{
+  margin: 20px auto -40px;
+}
+
+.main .body .a .myinfo .x{
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.main .body .a .myinfo .y{
+  margin: -10px auto 15px;
+  font-size: 12px;
+  font-weight: bolder;
+}
+
+.main .body .abx{
+  margin: -50px auto 30px;
+}
+
+.main .body .abx h1{
+  font-family: 'Corbel';
+  color: #5e5e5e;
+}
+
+
+.main .body .abx .abx_txt{
+  font-family: 'Candara';
+  font-size: 12px;
+  color: #5e5e5e;
+  margin: -5px auto 0px;
+}
+
+.main .body .post-box{
+  margin: 0px auto 20px; 
+  float: right;
+}
+
+.main .body .posts-list{
+  background: #fff;
+  float: left;
+  box-shadow: 1px 1px 5px #333;
+  margin-bottom: 30px;
+}
+
+.main .body .posts-list
+.post-header{
+  margin: -15px auto 0px;
+}
+
+.main .body .posts-list
+.post-header .la_txt{
+  font-family: 'Calibri';
+  font-size: 30px;
+  color: #444444;
+  border: none;
+}
+
+.main .body .posts-list
+.post-header .la{
+  font-family: 'Calibri';
+  color: #444444;
+}
+
+.main .body .posts-list
+.post-header .lb{
+  font-family: 'Corbel';
+  font-size: 12px;
+  font-weight: lighter;
+  margin: -8px auto 0px;
+  color: #808080;
+}
+
+.main .body .posts-list
+.post-header .lc{
+  font-family: 'Calibri';
+  font-size: 12px;
+  color: #f39b9b;
+  margin: 5px auto 10px;
+}
+
+.main .body .posts-list
+.post-body textarea{
+  border: 1px solid #f8cccc;
+  background: #fff;
+  cursor: default;
+}
+
+.main .body .posts-list
+.post-body textarea:focus{
+  box-shadow: none;
+}
+
+.main .body .posts-list
+.post-footer form .input-group
+.block_none{
+  display: none;
+}
+
+.main .body .posts-list
+.post-footer .comment-box
+.cmb-txt{
+  font-family: 'Corbel';
+  font-size: 12px;
+  font-weight: bolder;
+  margin: 15px auto -15px;
+}
+
+.main .body .posts-list
+.post-footer .comment-box
+.cmb-txt .count{
+  color: #ad1c09;
+}
+
+.main .body .posts-list
+.post-footer .comment-box
+.fa-user{
+  color: #2fad09;
+}
+
+.main .body .posts-list
+.post-footer .comment-box
+.commentor_name{
+  font-family: 'Corbel';
+  font-size: 16px;
+  font-weight: bolder;
+  color: #636363;
+}
+
+.main .body .posts-list
+.post-footer .comment-box
+.commentor_post{
+  font-family: 'Corbel';
+  font-size: 13px;
+  font-weight: lighter;
+  color: #757575;
+}
+
